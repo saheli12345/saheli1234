@@ -1,0 +1,27 @@
+body
+{
+    background-color: cadetblue;
+}
+.red
+{
+    color:blueviolet;
+    font-size: 60px;
+}
+.blue
+{
+    color: blue;
+}
+#home
+{
+    background-color: coral;
+}
+h1:hover
+{
+   background-color: coral;
+  
+}
+h4
+{
+text-decoration: none;
+
+}
